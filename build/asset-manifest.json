@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.71098119.css",
+    "main.js": "/static/js/main.78a82b1a.js",
+    "static/js/787.51da2a82.chunk.js": "/static/js/787.51da2a82.chunk.js",
+    "static/media/Group 3@2x.png": "/static/media/Group 3@2x.aef595482ee3b5bfac89.png",
+    "static/media/moptro logo@2x.png": "/static/media/moptro logo@2x.56c4ec6e83a3f99fa1a1.png",
+    "index.html": "/index.html",
+    "main.71098119.css.map": "/static/css/main.71098119.css.map",
+    "main.78a82b1a.js.map": "/static/js/main.78a82b1a.js.map",
+    "787.51da2a82.chunk.js.map": "/static/js/787.51da2a82.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71098119.css",
+    "static/js/main.78a82b1a.js"
+  ]
+}
