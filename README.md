@@ -1,4 +1,4 @@
-#For starting web dev project
+##For starting a web dev project
 
 
 #Install all the dependencies by npm install
