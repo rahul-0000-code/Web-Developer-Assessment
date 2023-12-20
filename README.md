@@ -1,11 +1,12 @@
-For starting a web dev project
+**For starting a web dev project
 
 
 Install all the dependencies by npm install
 
-#For login the user id and password is
-#abcd@gmail.com
-#abcd
+#For login :
+The user id: abcd@gmail.com 
+And the password is : abcd
+
 
 
 
@@ -14,3 +15,4 @@ Install all the dependencies by npm install
 # 
 # 
 # https://rahulwebdevtest.netlify.app/
+**
